@@ -4,16 +4,16 @@ Explainable-AI é um repositório desenvolvido em Python (Jupyter Notebook) com 
 
 Os métodos aplicados até o momento são:
 
-  Grad-Cam;
-  Salliency Maps;
-  Smooth-Grad;
+  - Grad-Cam;
+  - Salliency Maps;
+  - Smooth-Grad;
 
 ## Próximas etapas
 
 Serão adicionados os seguintes métodos:
 
-  LIME;
-  SHAP;
+  - LIME;
+  - SHAP;
   
 ## Observação
 
