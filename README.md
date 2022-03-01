@@ -7,12 +7,12 @@ Os métodos aplicados até o momento são:
   - Grad-Cam;
   - Salliency Maps;
   - Smooth-Grad;
+  - LIME.
 
 ## Próximas etapas
 
 Serão adicionados os seguintes métodos:
 
-  - LIME;
   - SHAP;
   
 ## Observação
